@@ -1,0 +1,7 @@
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\bin\Debug\Generic-Delegate.exe.config
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\bin\Debug\Generic-Delegate.exe
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\bin\Debug\Generic-Delegate.pdb
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\obj\Debug\Generic-Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\obj\Debug\Generic-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\obj\Debug\Generic-Delegate.exe
+C:\Users\Mia\Desktop\AspNet_Practice\Pjs\C#NextLevel\c#Generics_Delegate\Generic-Delegate_solu\Generic-Delegate\obj\Debug\Generic-Delegate.pdb
